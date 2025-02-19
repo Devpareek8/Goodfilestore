@@ -6,3 +6,6 @@ dnspython
 psutil
 render
 requests
+Flask
+gunicorn
+aiohttp
